@@ -8,7 +8,7 @@ This my attempt at making a multiplayer version of this game to be played online
 
 
 TODO:
-Implement DB for users (uname, password, DisplayName)
-Add stats to be displayed on either lobby or other menu
-Game selector
+Implement DB for users (uname, password, DisplayName)\n
+Add stats to be displayed on either lobby or other menu\n
+Game selector\n
 Wheels itself
